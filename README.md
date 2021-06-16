@@ -15,5 +15,18 @@ Regression Model has the highest r2_score.</p>
 5. Random Forest Regression
 
 ## Classification
+Dataset: https://www.kaggle.com/kandij/diabetes-dataset
+
+<p>This is a Diabetes Prediction dataset where there are different features like insulin level, 
+blood pressure, etc. which helps to classify whether a person is diabetic or not. Here we have 
+taken AUC(Area Under the Cueve) for accuracy.</p>
+
+1. Logistic Regression
+2. K-Nearest Neighbour
+3. Simple Vector Machine
+4. Kernel SVM
+5. Naive Bayes Classifier
+6. Decision Tree Classifier
+7. Random Forest Classifier
 
 
